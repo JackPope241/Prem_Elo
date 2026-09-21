@@ -1,0 +1,10 @@
+{
+  "k": 6,
+  "goal_diff_power": 1.25,
+  "home_adv": 135,
+  "home_adv_rate": 100,
+  "carry_over": 0.95,
+  "promoted_elo": 1440,
+  "scale": 225.0,
+  "draw_width": 0.6
+}

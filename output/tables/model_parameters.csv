@@ -1,0 +1,10 @@
+Parameter,Value,What it does
+k,6,How far ratings move after one match
+goal_diff_power,1.25,Bigger wins count more: K x (1 + goal difference) ^ power
+home_adv,135,Home advantage in Elo points at the start (1993-94)
+home_adv_rate,100,How much home advantage is corrected after each season
+carry_over,0.95,Share of distance from 1500 kept into the next season
+promoted_elo,1440,Rating promoted teams start on
+scale,225,Elo points per step on the forecast curve (the update curve uses UPDATE_SCALE)
+draw_width,0.6,Controls how likely draws are
+home_adv (2025-26),61.9,Home advantage after the season-by-season corrections

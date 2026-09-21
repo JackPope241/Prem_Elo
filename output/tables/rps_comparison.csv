@@ -1,0 +1,5 @@
+Forecast,RPS
+Elo model tuned on all seasons (in sample),0.1978
+Elo model walk-forward test (out of sample),0.1981
+Bookmakers,0.1948
+Same odds every match (naive),0.2287
